@@ -6,35 +6,35 @@
    
    1. Kontratların Remix IDE'ye yüklenmesi
         
-        ![alt text](kontrat_yukle.png)
+        ![alt text](static/kontrat_yukle.png)
    
    2. Gerekli Pluginlerin aktifleştirilmesi
    
-        ![alt text](aktiflestirilecek_pluginler.png)
+        ![alt text](static/aktiflestirilecek_pluginler.png)
    
    3. Derlenecek kontratın seçilmesi
    
-        ![alt text](deploy_edilecek_kontrat.png)
+        ![alt text](static/deploy_edilecek_kontrat.png)
    
    4. Kontratın derlenmesi
    
-        ![alt text](compile_etme.png)
+        ![alt text](static/compile_etme.png)
    
    5. Environment Seçimi
    
-        ![alt text](env_secimi.png)
+        ![alt text](static/env_secimi.png)
    
    6. Environment rpc adresinin ayarlanması
    
-        ![alt text](rpc_adresi.png)
+        ![alt text](static/rpc_adresi.png)
    
    7. Deploy ayarlarının yapılması ve deploy
    
-        ![alt text](deploy_ayarları.png)
+        ![alt text](static/deploy_ayarları.png)
    
    8. Kontrat adresinin öğrenilmesi
    
-        ![alt text](kontrat_adresinin_alinmasi.png)
+        ![alt text](static/kontrat_adresinin_alinmasi.png)
    
 
 
